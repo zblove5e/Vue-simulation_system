@@ -6,6 +6,8 @@ import router from './router'
 // 引入element ui
 import ElementUI from 'element-ui'
 import 'element-ui/lib/theme-chalk/index.css'
+//导入公共css
+import  './assets/css/reset.css'
 
 Vue.use(ElementUI);
 
